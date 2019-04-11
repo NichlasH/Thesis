@@ -1,0 +1,1 @@
+These folders contains the output of RiskFreq And ControlFreq Scripts

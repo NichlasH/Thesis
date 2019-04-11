@@ -1,0 +1,1 @@
+This folder contains all Python Scripts used for the project
