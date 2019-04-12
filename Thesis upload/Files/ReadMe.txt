@@ -1,2 +1,0 @@
-The Data is not uploaded to GitHub due to limitations in upload space. The Data can be found on Links in the thesis, and should be put into this folder and renamed Tweets06-Tweets12, for the script to work.
-Negatives and positives txt files, are the sentiment lists used for the project

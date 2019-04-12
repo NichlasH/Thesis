@@ -1,0 +1,5 @@
+Measure/RiskCount/ControlCount
+Total/2560102/2548578
+Sentiments/272725/266475
+Positive/169437/170888
+Negative/103288/95587
